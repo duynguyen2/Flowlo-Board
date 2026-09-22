@@ -1,3 +1,7 @@
+# FlowLo Board
+
+A dashboard inspired to be similar to a Trello Board. Trello has many features that are really useful on a dashboard that can be used by individuals and teams, but there are some features that are gated by a subscription. I am planning on essentially building something as close to Trello in functionality with some additional changes, that might be useful for my own personal use.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
