@@ -1,3 +1,5 @@
+import { useState } from 'react';
+
 class User {
     constructor(name, team = null) {
         this.name = name;
